@@ -1,4 +1,6 @@
-# Basics-python (Only Assignments)
-basics python questions,
+# All Assignments 
 
-AAssignment -1
+AAssignment -1 Basic Python 
+
+Assignment  -2 data strucure 
+
