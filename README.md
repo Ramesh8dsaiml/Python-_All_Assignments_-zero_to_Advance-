@@ -8,3 +8,6 @@ Assignment  -2 data strucure
 Assignment  -3 Functions_
 
 Assignment  -4 Python Oops 
+
+Assignment  -Files, exceptional handling,  logging and memory  management
+
